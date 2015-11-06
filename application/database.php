@@ -3,7 +3,7 @@
 class Db {
     
     protected $con;
-    //CHANGE THIS LINE TO YOUR OWN RDS ENDPOINT
+    //CHANGE THIS LINE TO YOUR OWN RDS ENDPOINT hgfhgfgf
     private $host = "mydb.c6guympzyy0a.us-west-2.rds.amazonaws.com:3306t";
     private $user = "db_user";
     private $pwd = "testing123";
